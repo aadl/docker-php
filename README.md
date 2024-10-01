@@ -6,10 +6,11 @@ This repo takes the official PHP docker images and adds the extensions and setti
 
 The following images are built:
 
-- ghcr.io/aadl/php:7.4
-- ghcr.io/aadl/php:8.0
-- ghcr.io/aadl/php:8.1
-- ghcr.io/aadl/php:8.2
+- ghcr.io/aadl/php:7.4 - End of Life
+- ghcr.io/aadl/php:8.0 - End of Life
+- ghcr.io/aadl/php:8.1 - EOL | Security till 12/31/25
+- ghcr.io/aadl/php:8.2 - EOL on 12/31/24 | Security till 12/31/26
+- ghcr.io/aadl/php:8.3 - Active
 
 ### Extensions
 
@@ -17,8 +18,11 @@ The following additional extensions are installed (stock image contains curl, js
 
 - bcmath
 - gd
+- exif
+- igbinary
 - imagick
 - imap
+- intl
 - ldap
 - memcached
 - mysqli
