@@ -8,9 +8,10 @@ The following images are built:
 
 - ghcr.io/aadl/php:7.4 - End of Life
 - ghcr.io/aadl/php:8.0 - End of Life
-- ghcr.io/aadl/php:8.1 - EOL | Security till 12/31/25
-- ghcr.io/aadl/php:8.2 - EOL on 12/31/24 | Security till 12/31/26
-- ghcr.io/aadl/php:8.3 - Active
+- ghcr.io/aadl/php:8.1 - EOL | Security 2025-12-31
+- ghcr.io/aadl/php:8.2 - EOL | Security 2026-12-31
+- ghcr.io/aadl/php:8.3 - EOL on 2025-12-31 | Security 2027-12-31
+- ghcr.io/aadl/php:8.4 - EOL on 2026-12-31 | Security 2028-12-31
 
 ### Extensions
 
